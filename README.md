@@ -103,6 +103,6 @@ If bpm_output.json isn't updating, check that real_time_model.py is running
 MongoDB must be running for login, signup, and experience posting
 
 ## License
-MIT License — free to use for academic, research, and personal safety projects.
+Free to use for academic, research, and personal safety projects.
 
 
