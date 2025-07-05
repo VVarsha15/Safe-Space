@@ -1,0 +1,201 @@
+Ward Number,Zone,Locality,Perceived_Safety_Score_Women(Out_of_5),Night_Patrolling,Police_Booth_Availability,Crime_Reported(Indicative_2021)
+1,Tondiarpet,Locality_1,3.0,Moderate,High,65
+2,Royapuram,Locality_2,3.5,High,Low,80
+3,Thiru-Vi-Ka Nagar,Locality_3,4.0,Low,Moderate,95
+4,Ambattur,Locality_4,4.5,Moderate,High,110
+5,Anna Nagar,Locality_5,2.5,High,Low,125
+6,Teynampet,Locality_6,3.0,Low,Moderate,140
+7,Kodambakkam,Locality_7,3.5,Moderate,High,155
+8,Valasaravakkam,Locality_8,4.0,High,Low,170
+9,Alandur,Locality_9,4.5,Low,Moderate,185
+10,Adyar,Locality_10,2.5,Moderate,High,50
+11,Perungudi,Locality_11,3.0,High,Low,65
+12,Sholinganallur,Locality_12,3.5,Low,Moderate,80
+13,Manali,Locality_13,4.0,Moderate,High,95
+14,Madhavaram,Locality_14,4.5,High,Low,110
+15,Zone 15,Locality_15,2.5,Low,Moderate,125
+16,Tondiarpet,Locality_16,3.0,Moderate,High,140
+17,Royapuram,Locality_17,3.5,High,Low,155
+18,Thiru-Vi-Ka Nagar,Locality_18,4.0,Low,Moderate,170
+19,Ambattur,Locality_19,4.5,Moderate,High,185
+20,Anna Nagar,Locality_20,2.5,High,Low,50
+21,Teynampet,Locality_21,3.0,Low,Moderate,65
+22,Kodambakkam,Locality_22,3.5,Moderate,High,80
+23,Valasaravakkam,Locality_23,4.0,High,Low,95
+24,Alandur,Locality_24,4.5,Low,Moderate,110
+25,Adyar,Locality_25,2.5,Moderate,High,125
+26,Perungudi,Locality_26,3.0,High,Low,140
+27,Sholinganallur,Locality_27,3.5,Low,Moderate,155
+28,Manali,Locality_28,4.0,Moderate,High,170
+29,Madhavaram,Locality_29,4.5,High,Low,185
+30,Zone 15,Locality_30,2.5,Low,Moderate,50
+31,Tondiarpet,Locality_31,3.0,Moderate,High,65
+32,Royapuram,Locality_32,3.5,High,Low,80
+33,Thiru-Vi-Ka Nagar,Locality_33,4.0,Low,Moderate,95
+34,Ambattur,Locality_34,4.5,Moderate,High,110
+35,Anna Nagar,Locality_35,2.5,High,Low,125
+36,Teynampet,Locality_36,3.0,Low,Moderate,140
+37,Kodambakkam,Locality_37,3.5,Moderate,High,155
+38,Valasaravakkam,Locality_38,4.0,High,Low,170
+39,Alandur,Locality_39,4.5,Low,Moderate,185
+40,Adyar,Locality_40,2.5,Moderate,High,50
+41,Perungudi,Locality_41,3.0,High,Low,65
+42,Sholinganallur,Locality_42,3.5,Low,Moderate,80
+43,Manali,Locality_43,4.0,Moderate,High,95
+44,Madhavaram,Locality_44,4.5,High,Low,110
+45,Zone 15,Locality_45,2.5,Low,Moderate,125
+46,Tondiarpet,Locality_46,3.0,Moderate,High,140
+47,Royapuram,Locality_47,3.5,High,Low,155
+48,Thiru-Vi-Ka Nagar,Locality_48,4.0,Low,Moderate,170
+49,Ambattur,Locality_49,4.5,Moderate,High,185
+50,Anna Nagar,Locality_50,2.5,High,Low,50
+51,Teynampet,Locality_51,3.0,Low,Moderate,65
+52,Kodambakkam,Locality_52,3.5,Moderate,High,80
+53,Valasaravakkam,Locality_53,4.0,High,Low,95
+54,Alandur,Locality_54,4.5,Low,Moderate,110
+55,Adyar,Locality_55,2.5,Moderate,High,125
+56,Perungudi,Locality_56,3.0,High,Low,140
+57,Sholinganallur,Locality_57,3.5,Low,Moderate,155
+58,Manali,Locality_58,4.0,Moderate,High,170
+59,Madhavaram,Locality_59,4.5,High,Low,185
+60,Zone 15,Locality_60,2.5,Low,Moderate,50
+61,Tondiarpet,Locality_61,3.0,Moderate,High,65
+62,Royapuram,Locality_62,3.5,High,Low,80
+63,Thiru-Vi-Ka Nagar,Locality_63,4.0,Low,Moderate,95
+64,Ambattur,Locality_64,4.5,Moderate,High,110
+65,Anna Nagar,Locality_65,2.5,High,Low,125
+66,Teynampet,Locality_66,3.0,Low,Moderate,140
+67,Kodambakkam,Locality_67,3.5,Moderate,High,155
+68,Valasaravakkam,Locality_68,4.0,High,Low,170
+69,Alandur,Locality_69,4.5,Low,Moderate,185
+70,Adyar,Locality_70,2.5,Moderate,High,50
+71,Perungudi,Locality_71,3.0,High,Low,65
+72,Sholinganallur,Locality_72,3.5,Low,Moderate,80
+73,Manali,Locality_73,4.0,Moderate,High,95
+74,Madhavaram,Locality_74,4.5,High,Low,110
+75,Zone 15,Locality_75,2.5,Low,Moderate,125
+76,Tondiarpet,Locality_76,3.0,Moderate,High,140
+77,Royapuram,Locality_77,3.5,High,Low,155
+78,Thiru-Vi-Ka Nagar,Locality_78,4.0,Low,Moderate,170
+79,Ambattur,Locality_79,4.5,Moderate,High,185
+80,Anna Nagar,Locality_80,2.5,High,Low,50
+81,Teynampet,Locality_81,3.0,Low,Moderate,65
+82,Kodambakkam,Locality_82,3.5,Moderate,High,80
+83,Valasaravakkam,Locality_83,4.0,High,Low,95
+84,Alandur,Locality_84,4.5,Low,Moderate,110
+85,Adyar,Locality_85,2.5,Moderate,High,125
+86,Perungudi,Locality_86,3.0,High,Low,140
+87,Sholinganallur,Locality_87,3.5,Low,Moderate,155
+88,Manali,Locality_88,4.0,Moderate,High,170
+89,Madhavaram,Locality_89,4.5,High,Low,185
+90,Zone 15,Locality_90,2.5,Low,Moderate,50
+91,Tondiarpet,Locality_91,3.0,Moderate,High,65
+92,Royapuram,Locality_92,3.5,High,Low,80
+93,Thiru-Vi-Ka Nagar,Locality_93,4.0,Low,Moderate,95
+94,Ambattur,Locality_94,4.5,Moderate,High,110
+95,Anna Nagar,Locality_95,2.5,High,Low,125
+96,Teynampet,Locality_96,3.0,Low,Moderate,140
+97,Kodambakkam,Locality_97,3.5,Moderate,High,155
+98,Valasaravakkam,Locality_98,4.0,High,Low,170
+99,Alandur,Locality_99,4.5,Low,Moderate,185
+100,Adyar,Locality_100,2.5,Moderate,High,50
+101,Perungudi,Locality_101,3.0,High,Low,65
+102,Sholinganallur,Locality_102,3.5,Low,Moderate,80
+103,Manali,Locality_103,4.0,Moderate,High,95
+104,Madhavaram,Locality_104,4.5,High,Low,110
+105,Zone 15,Locality_105,2.5,Low,Moderate,125
+106,Tondiarpet,Locality_106,3.0,Moderate,High,140
+107,Royapuram,Locality_107,3.5,High,Low,155
+108,Thiru-Vi-Ka Nagar,Locality_108,4.0,Low,Moderate,170
+109,Ambattur,Locality_109,4.5,Moderate,High,185
+110,Anna Nagar,Locality_110,2.5,High,Low,50
+111,Teynampet,Locality_111,3.0,Low,Moderate,65
+112,Kodambakkam,Locality_112,3.5,Moderate,High,80
+113,Valasaravakkam,Locality_113,4.0,High,Low,95
+114,Alandur,Locality_114,4.5,Low,Moderate,110
+115,Adyar,Locality_115,2.5,Moderate,High,125
+116,Perungudi,Locality_116,3.0,High,Low,140
+117,Sholinganallur,Locality_117,3.5,Low,Moderate,155
+118,Manali,Locality_118,4.0,Moderate,High,170
+119,Madhavaram,Locality_119,4.5,High,Low,185
+120,Zone 15,Locality_120,2.5,Low,Moderate,50
+121,Tondiarpet,Locality_121,3.0,Moderate,High,65
+122,Royapuram,Locality_122,3.5,High,Low,80
+123,Thiru-Vi-Ka Nagar,Locality_123,4.0,Low,Moderate,95
+124,Ambattur,Locality_124,4.5,Moderate,High,110
+125,Anna Nagar,Locality_125,2.5,High,Low,125
+126,Teynampet,Locality_126,3.0,Low,Moderate,140
+127,Kodambakkam,Locality_127,3.5,Moderate,High,155
+128,Valasaravakkam,Locality_128,4.0,High,Low,170
+129,Alandur,Locality_129,4.5,Low,Moderate,185
+130,Adyar,Locality_130,2.5,Moderate,High,50
+131,Perungudi,Locality_131,3.0,High,Low,65
+132,Sholinganallur,Locality_132,3.5,Low,Moderate,80
+133,Manali,Locality_133,4.0,Moderate,High,95
+134,Madhavaram,Locality_134,4.5,High,Low,110
+135,Zone 15,Locality_135,2.5,Low,Moderate,125
+136,Tondiarpet,Locality_136,3.0,Moderate,High,140
+137,Royapuram,Locality_137,3.5,High,Low,155
+138,Thiru-Vi-Ka Nagar,Locality_138,4.0,Low,Moderate,170
+139,Ambattur,Locality_139,4.5,Moderate,High,185
+140,Anna Nagar,Locality_140,2.5,High,Low,50
+141,Teynampet,Locality_141,3.0,Low,Moderate,65
+142,Kodambakkam,Locality_142,3.5,Moderate,High,80
+143,Valasaravakkam,Locality_143,4.0,High,Low,95
+144,Alandur,Locality_144,4.5,Low,Moderate,110
+145,Adyar,Locality_145,2.5,Moderate,High,125
+146,Perungudi,Locality_146,3.0,High,Low,140
+147,Sholinganallur,Locality_147,3.5,Low,Moderate,155
+148,Manali,Locality_148,4.0,Moderate,High,170
+149,Madhavaram,Locality_149,4.5,High,Low,185
+150,Zone 15,Locality_150,2.5,Low,Moderate,50
+151,Tondiarpet,Locality_151,3.0,Moderate,High,65
+152,Royapuram,Locality_152,3.5,High,Low,80
+153,Thiru-Vi-Ka Nagar,Locality_153,4.0,Low,Moderate,95
+154,Ambattur,Locality_154,4.5,Moderate,High,110
+155,Anna Nagar,Locality_155,2.5,High,Low,125
+156,Teynampet,Locality_156,3.0,Low,Moderate,140
+157,Kodambakkam,Locality_157,3.5,Moderate,High,155
+158,Valasaravakkam,Locality_158,4.0,High,Low,170
+159,Alandur,Locality_159,4.5,Low,Moderate,185
+160,Adyar,Locality_160,2.5,Moderate,High,50
+161,Perungudi,Locality_161,3.0,High,Low,65
+162,Sholinganallur,Locality_162,3.5,Low,Moderate,80
+163,Manali,Locality_163,4.0,Moderate,High,95
+164,Madhavaram,Locality_164,4.5,High,Low,110
+165,Zone 15,Locality_165,2.5,Low,Moderate,125
+166,Tondiarpet,Locality_166,3.0,Moderate,High,140
+167,Royapuram,Locality_167,3.5,High,Low,155
+168,Thiru-Vi-Ka Nagar,Locality_168,4.0,Low,Moderate,170
+169,Ambattur,Locality_169,4.5,Moderate,High,185
+170,Anna Nagar,Locality_170,2.5,High,Low,50
+171,Teynampet,Locality_171,3.0,Low,Moderate,65
+172,Kodambakkam,Locality_172,3.5,Moderate,High,80
+173,Valasaravakkam,Locality_173,4.0,High,Low,95
+174,Alandur,Locality_174,4.5,Low,Moderate,110
+175,Adyar,Locality_175,2.5,Moderate,High,125
+176,Perungudi,Locality_176,3.0,High,Low,140
+177,Sholinganallur,Locality_177,3.5,Low,Moderate,155
+178,Manali,Locality_178,4.0,Moderate,High,170
+179,Madhavaram,Locality_179,4.5,High,Low,185
+180,Zone 15,Locality_180,2.5,Low,Moderate,50
+181,Tondiarpet,Locality_181,3.0,Moderate,High,65
+182,Royapuram,Locality_182,3.5,High,Low,80
+183,Thiru-Vi-Ka Nagar,Locality_183,4.0,Low,Moderate,95
+184,Ambattur,Locality_184,4.5,Moderate,High,110
+185,Anna Nagar,Locality_185,2.5,High,Low,125
+186,Teynampet,Locality_186,3.0,Low,Moderate,140
+187,Kodambakkam,Locality_187,3.5,Moderate,High,155
+188,Valasaravakkam,Locality_188,4.0,High,Low,170
+189,Alandur,Locality_189,4.5,Low,Moderate,185
+190,Adyar,Locality_190,2.5,Moderate,High,50
+191,Perungudi,Locality_191,3.0,High,Low,65
+192,Sholinganallur,Locality_192,3.5,Low,Moderate,80
+193,Manali,Locality_193,4.0,Moderate,High,95
+194,Madhavaram,Locality_194,4.5,High,Low,110
+195,Zone 15,Locality_195,2.5,Low,Moderate,125
+196,Tondiarpet,Locality_196,3.0,Moderate,High,140
+197,Royapuram,Locality_197,3.5,High,Low,155
+198,Thiru-Vi-Ka Nagar,Locality_198,4.0,Low,Moderate,170
+199,Ambattur,Locality_199,4.5,Moderate,High,185
+200,Anna Nagar,Locality_200,2.5,High,Low,50
