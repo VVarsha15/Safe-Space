@@ -35,41 +35,6 @@ SafeSpace is a cross-platform safety monitoring application that integrates real
 
 ---
 
-## Folder Structure
-safe_space/
-├── arduino/heart_rate_sensor.txt
-├── lib/
-│ ├── main.dart
-│ ├── home_page.dart
-│ ├── login_page.dart
-│ ├── signup_page.dart
-│ ├── screens/
-│ │ ├── heart_rate_monitor_page.dart
-│ │ ├── gps_tracker_page.dart
-│ │ ├── forum_page.dart
-│ │ ├── experience_page.dart
-│ │ ├── enter_experience_page.dart
-│ │ ├── login_screen.dart
-│ │ ├── signup_screen.dart
-│ │ └── home_screen.dart
-│ ├── services/
-│ │ ├── api_service.dart
-│ │ └── socket_service.dart
-├── pubspec.yaml
-├── server.js # Node.js backend API
-├── index.js # Additional Node.js route handler
-├── db/ # Optional database scripts or models
-├── login/, signup/ # Older PHP-based auth (if used previously)
-├── bpm_output.json # Live BPM + fear status
-├── bpm_log.csv # Heart rate logs
-├── realtime_training_data.xlsx # Excel HRV dataset
-├── real_time_model.py # Python ML + serial reader
-├── project.zip # Packaged version
-├── package.json, package-lock.json
-├── README.md # This file
-
----
-
 ## Running the Project
 
 ### 1. Arduino Setup
